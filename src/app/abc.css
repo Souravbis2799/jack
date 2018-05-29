@@ -1,0 +1,17 @@
+h1
+{
+text-align: center;
+color:red;
+}
+.column
+{
+float: left;
+padding: 3px;
+width: 27%;
+height: 200px;
+}
+.row1
+{
+height: 200px;
+clear: both;
+}
